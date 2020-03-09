@@ -6,3 +6,4 @@
 ##### https://www.thezdi.com/blog/2020/3/5/cve-2020-2555-rce-through-a-deserialization-bug-in-oracles-weblogic-server
 ##### https://snyk.io/vuln/SNYK-JAVA-COMFASTERXMLJACKSONCORE-72883
 ##### https://i.blackhat.com/us-18/Wed-August-8/us-18-Orange-Tsai-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out-2.pdf
+##### https://pentest-tools.com/blog/exploiting-ognl-injection-in-apache-struts/
